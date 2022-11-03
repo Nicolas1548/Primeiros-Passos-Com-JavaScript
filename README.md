@@ -1,2 +1,2 @@
-# Primeiros-Passos-Com-JavaScript
-Introdução ao JavaScript
+# Primeiros PassosCom JavaScript
+Introdução ao JavaScript.
